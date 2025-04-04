@@ -1,0 +1,34 @@
+[
+  {
+    "order_id": "O001",
+    "customer": "張小明",
+    "items": [
+      {
+        "name": "牛肉麵",
+        "price": 120,
+        "quantity": 2
+      },
+      {
+        "name": "滷蛋",
+        "price": 15,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "O002",
+    "customer": "李小華",
+    "items": [
+      {
+        "name": "雞腿飯",
+        "price": 80,
+        "quantity": 1
+      },
+      {
+        "name": "味噌湯",
+        "price": 20,
+        "quantity": 1
+      }
+    ]
+  }
+]
